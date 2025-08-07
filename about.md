@@ -40,6 +40,6 @@ permalink: /about/
 
 This site provides an overview of my academic and professional achievements.
 
----
+
 
 
