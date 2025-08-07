@@ -39,11 +39,6 @@ I am an **Assistant Professor at Chitkara University, Punjab**, with a specializ
 - Disaster Detection using Satellite Images  
 
 ---
-
-### 📄 [Download My Resume](assets/resume.pdf)
-
----
-
 ### 📚 Recent Publications
 
 - **2025** – High-Accuracy Lung Disease Classification, *Egyptian Informatics Journal*  
