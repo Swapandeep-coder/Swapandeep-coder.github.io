@@ -30,3 +30,20 @@ I aim to create engaging and interactive learning environments where students no
 ---
 
 Feel free to [download my full resume here](../assets/resume.pdf).
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+# About Me
+
+This site provides an overview of my academic and professional achievements.
+
+---
+
+### 📥 Resume Download
+
+You can also download my resume here:  
+➡️ [**Download Resume**](../assets/resume.pdf)
+
