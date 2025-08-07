@@ -27,14 +27,8 @@ I am currently serving as an **Assistant Professor in the Department of Electron
 
 I aim to create engaging and interactive learning environments where students not only grasp theoretical knowledge but also learn to apply it creatively in real-world contexts.
 
----
 
-
-
-layout: page
-title: About
-permalink: /about/
----
+-
 
 # About Me
 
